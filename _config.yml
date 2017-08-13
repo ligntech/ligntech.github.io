@@ -17,7 +17,7 @@ title: LIGNTech - Building Enterprise Technology Solutions
 email: ligntech@gmail.com
 description: "LIGNTech is a software solutions company where we provide high impact yet afforable software solutions. From web development, e-commerce, ERP, business intelligence to financial markets solutions; we provide development and support solutions for your software needs."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ligntech.github.io/ligntech/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "//ligntech.github.io/ligntech/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
